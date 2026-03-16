@@ -1,4 +1,4 @@
-git commit -m "first commit"let name = ' Ani5   ';
+let name = ' Ani5   ';
 let age = 26;
 let subscription = 'free'; //'free''basic' 'premium'
 let lastLogin = 22; //врмя в формате часов от 0 до 23
